@@ -1,2 +1,2 @@
 # zomato
-a website using prd and brd
+a website using prd to enchance Zomato platform.
